@@ -1,6 +1,6 @@
 # matplotlib_challenge
 
-The purpose of this study is to compare the different Pymaceutical drugs to reduce the Cancer tumor volume. Nearly 250 mice were used to test 10 drug speciments.
+The purpose of this study is to compare the different Pymaceutical drugs to reduce the Cancer tumor volume. Nearly 250 mice were used to test 10 drug specimens.
 
 - For testing the drug specimens, mostly the same number of Male and Female mice were used.
 
